@@ -1,0 +1,10 @@
+step1:
+
+open the zip and unzip the folder
+
+2. we have to run two commands
+  1-> cd client
+      npm run serve
+ 
+ 2 -> cd server
+       nomdemon index.js
