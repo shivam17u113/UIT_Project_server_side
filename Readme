@@ -1,0 +1,7 @@
+this is server side of project
+copy the url from repo
+git clone <url>
+open in vs code
+cmd  // npm install
+cmd // cd src
+cmd   // nodemon index.js
